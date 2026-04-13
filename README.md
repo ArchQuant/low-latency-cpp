@@ -2,6 +2,8 @@
 
 ## 8-Week Curriculum
 
+Adopted from [Building-Low-Latency-Applications-with-CPP](https://github.com/PacktPublishing/Building-Low-Latency-Applications-with-CPP).
+
 1. C++ Low-latency systems overview
     
     Performance goals, why C++ for low latency, common designs across streaming, gaming, IoT, electronic trading, AI Infra, Crypto;
